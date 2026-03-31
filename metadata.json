@@ -1,0 +1,5 @@
+{
+  "name": "Trend Explorer",
+  "description": "Analyze search interest and discover trending keywords across platforms using Google Trends and AI.",
+  "requestFramePermissions": []
+}
